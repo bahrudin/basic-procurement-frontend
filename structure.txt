@@ -1,0 +1,34 @@
+Folder PATH listing for volume Data
+Volume serial number is 2097-DDF7
+D:.
+|   dashboard.html
+|   index.html
+|   items.html
+|   login.html
+|   purchase.html
+|   purchase_detail.html
+|   purchase_list.html
+|   register.html
+|   structure.txt
+|   suppliers.html
+|   
++---.idea
+|       .gitignore
+|       modules.xml
+|       php.xml
+|       procurement-frontend.iml
+|       workspace.xml
+|       
+\---assets
+    +---css
+    +---images
+    \---js
+            auth.js
+            config.js
+            dashboard.js
+            items.js
+            purchase.js
+            purchase_detail.js
+            purchase_list.js
+            suppliers.js
+            

@@ -1,0 +1,17 @@
+# GO
+
+# ENV FILES
+
+# WINDOWS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# EDITOR
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
