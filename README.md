@@ -165,4 +165,3 @@ MIT License © 2025 Bahrudin Ardiansyah
 
 Proyek ini sebagai portofolio bersifat open-source dan bebas digunakan untuk keperluan pembelajaran dan pengembangan.
 
-# basic-procurement-frontend
